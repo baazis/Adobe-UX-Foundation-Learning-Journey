@@ -19,3 +19,12 @@
 
 ### F- Examples of Good User Experience Design ( Eye-Opening Examples of Good & Bad UX Design ) 
 #### Link- https://xd.adobe.com/ideas/process/ui-design/good-bad-ux-design-examples/
+
+## Module -2 User Experience Research
+
+### A- What Is User Experience Research? (  )
+#### Link - https://xd.adobe.com/ideas/process/user-research/
+
+### B- Designing Adobe XD: User Research & Testing
+#### Link- https://youtu.be/FthxZenH5Xo
+
