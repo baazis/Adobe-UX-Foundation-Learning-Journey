@@ -22,9 +22,12 @@
 
 ## Module -2 User Experience Research
 
-### A- What Is User Experience Research? (  )
+### A- What Is User Experience Research?
 #### Link - https://xd.adobe.com/ideas/process/user-research/
 
 ### B- Designing Adobe XD: User Research & Testing
 #### Link- https://youtu.be/FthxZenH5Xo
+
+### c- What Is Competitor User Experience Research ( A Guide to Competitive Analysis for UX Design )
+#### Link- https://xd.adobe.com/ideas/process/user-research/guide-to-competitive-analysis-ux-design/
 
