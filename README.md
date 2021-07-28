@@ -2,6 +2,7 @@
 ## Nasscom UX Foundation Learning Journey is created by experts from Adobe and aligns 100% to the curriculum approved by the Industry and Government.
 
 ## Module - 1 Introduction to User Experience Design
+
 ### A- Define User Experience ( What Does A UX/UI Designer Actually Do? )
 #### Link- https://xd.adobe.com/ideas/career-tips/16-experts-explain-ux-design-and-what-they-do/
 
@@ -30,4 +31,7 @@
 
 ### c- What Is Competitor User Experience Research ( A Guide to Competitive Analysis for UX Design )
 #### Link- https://xd.adobe.com/ideas/process/user-research/guide-to-competitive-analysis-ux-design/
+
+### D- User Experience Personas and User Profiles ( Putting Personas to Work in UX Design: What They Are and Why They’re Important )
+#### Link- https://xd.adobe.com/ideas/process/user-research/putting-personas-to-work-in-ux-design/
 
