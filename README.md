@@ -35,3 +35,6 @@
 ### D- User Experience Personas and User Profiles ( Putting Personas to Work in UX Design: What They Are and Why They’re Important )
 #### Link- https://xd.adobe.com/ideas/process/user-research/putting-personas-to-work-in-ux-design/
 
+### E- Other Types of User Experience Research
+#### Link- https://xd.adobe.com/ideas/process/user-research/user-research-best-practices-methodologies/
+
