@@ -35,13 +35,13 @@
 ### D- User Experience Personas and User Profiles ( Putting Personas to Work in UX Design: What They Are and Why They’re Important )
 #### Link- https://xd.adobe.com/ideas/process/user-research/putting-personas-to-work-in-ux-design/
 
-### E- Other Types of User Experience Research ( Comprehensive Guide to User Experience Research: Methods – Part 1 )
+### E- Other Types of User Experience Research ( Comprehensive Guide to User Experience Research: Methods – Part 1)
 #### Link- https://xd.adobe.com/ideas/process/user-research/user-research-best-practices-methodologies/
 
 ### F- Qualitative and Quantitative User Experience Research (Comprehensive Guide to User Experience Research: Methods – Part 2)
 #### Link- https://xd.adobe.com/ideas/guides/comprehensive-guide-user-experience-ux-research-methods-part-2/
 
-### G- Running Interviews, and Observations for User Experience Research ( Top UX Research Interview Questions to Ask Users )
+### G- Running Interviews, and Observations for User Experience Research ( Top UX Research Interview Questions to Ask Users)
 #### Link- https://xd.adobe.com/ideas/process/user-research/user-interview-questions-ux-research/
 
 
