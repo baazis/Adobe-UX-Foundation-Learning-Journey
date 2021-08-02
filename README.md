@@ -29,7 +29,7 @@
 ### B- Designing Adobe XD: User Research & Testing
 #### Link- https://youtu.be/FthxZenH5Xo
 
-### c- What Is Competitor User Experience Research ( A Guide to Competitive Analysis for UX Design )
+### C- What Is Competitor User Experience Research ( A Guide to Competitive Analysis for UX Design )
 #### Link- https://xd.adobe.com/ideas/process/user-research/guide-to-competitive-analysis-ux-design/
 
 ### D- User Experience Personas and User Profiles ( Putting Personas to Work in UX Design: What They Are and Why They’re Important )
