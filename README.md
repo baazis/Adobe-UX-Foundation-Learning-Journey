@@ -44,6 +44,9 @@
 ### G- Running Interviews, and Observations for User Experience Research ( Top UX Research Interview Questions to Ask Users)
 #### Link- https://xd.adobe.com/ideas/process/user-research/user-interview-questions-ux-research/
 
+### H- Understanding User-Testing Data and Results ( Translating User Research into User Experience Design )
+#### Link- https://xd.adobe.com/ideas/process/user-research/translating-user-research-into-ux-design/
+
 
     
 
