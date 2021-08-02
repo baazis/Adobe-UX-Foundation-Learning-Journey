@@ -47,6 +47,10 @@
 ### H- Understanding User-Testing Data and Results ( Translating User Research into User Experience Design )
 #### Link- https://xd.adobe.com/ideas/process/user-research/translating-user-research-into-ux-design/
 
+## Module 3 : Visual Design
+
+### A- Definition of Visual Design  ( The Role of Visual Design In User Experience )
+#### Link- https://xd.adobe.com/ideas/principles/web-design/role-visual-design-user-experience/
 
     
 
