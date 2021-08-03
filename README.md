@@ -52,6 +52,25 @@
 ### A- Definition of Visual Design  ( The Role of Visual Design In User Experience )
 #### Link- https://xd.adobe.com/ideas/principles/web-design/role-visual-design-user-experience/
 
+### B- Introduction to Atomic Design ( Atomic Design Principles & Methodology 101 )
+#### Link- https://xd.adobe.com/ideas/process/ui-design/atomic-design-principles-methodology-101/
+
+### C- Elements of any Visual Design  ( The Role of Visual Design In User Experience )
+#### Link- https://xd.adobe.com/ideas/principles/web-design/role-visual-design-user-experience/
+
+### D- Elements of any Visual Design: Language ( Universal Principles of User Experience Design: Language & Typography – Part 2 )
+#### Link- https://xd.adobe.com/ideas/guides/universal-principles-user-experience-design-language-typography-part-2/
+
+### E- Elements of any Visual Design: Color and Shape ( The Role of Color in Product Design: UX of Color Palettes )
+#### Link- https://xd.adobe.com/ideas/principles/web-design/ux-of-color-palettes/
+
+### What Is Color Theory? Meaning & Fundamentals
+#### Link- https://xd.adobe.com/ideas/process/ui-design/what-is-color-theory/
+
+
+
+
+
     
 
 
