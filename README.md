@@ -67,6 +67,16 @@
 ### What Is Color Theory? Meaning & Fundamentals
 #### Link- https://xd.adobe.com/ideas/process/ui-design/what-is-color-theory/
 
+### F- Elements of any Visual Design: Imagery ( Effective Use of Images & Graphics in UX Design )
+#### Link- https://xd.adobe.com/ideas/process/ui-design/effective-use-images-graphics-ux-design/
+
+### G- Elements of any Visual Design: Typography ( Typography in UI Design )
+#### Link- https://xd.adobe.com/ideas/process/ui-design/typography-in-ui-design/
+
+### H- Elements of any Visual Design: Buttons ( How to Design and Integrate Buttons Into Your UI )
+#### Link- https://xd.adobe.com/ideas/process/ui-design/button-design-integration-ui/
+
+
 
 
 
