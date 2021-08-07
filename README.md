@@ -76,8 +76,28 @@
 ### H- Elements of any Visual Design: Buttons ( How to Design and Integrate Buttons Into Your UI )
 #### Link- https://xd.adobe.com/ideas/process/ui-design/button-design-integration-ui/
 
+### I- Composition of Visual Design Elements ( Key Principles for Better Design Composition )
+#### Link- https://xd.adobe.com/ideas/process/ui-design/design-composition-key-principles/
 
+### K- Composition of Visual Design Elements: Structure & Grid ( Layout Grids for Wireframes )
+#### Link- https://xd.adobe.com/ideas/process/wireframing/layout-grids-for-wireframes/
 
+### L- Composition of Visual Design Elements: Hierarchy of Content ( Visual Hierarchy in UX Design )
+#### Link- https://xd.adobe.com/ideas/process/information-architecture/visual-hierarchy-in-ux-design/
+
+### M- Composition of Visual Design Elements: States ( Designing States for Buttons & UI Interactions )
+#### Link- https://xd.adobe.com/ideas/process/ui-design/designing-interactive-buttons-states/
+
+### N- Principles for Designing Visual Elements for Different Platforms & Screen Sizes ( Ask a UXpert: How to Develop an Effective, Multi-Device UX Strategy )
+#### Link- https://xd.adobe.com/ideas/principles/web-design/ux-design-strategy-for-multiple-devices/
+
+### O- Examples of Visual Design Elements across Multiple Platforms & Screen Sizes ( Adaptive Design vs. Responsive Design )
+#### Link- https://xd.adobe.com/ideas/process/ui-design/adaptive-design-vs-responsive-design/
+
+## Module 4 :  User Experience Design Strategy
+
+### A- An Introductory Guide to Information Architecture (The Beginner’s Guide to Information Architecture in UX )
+#### Link- https://xd.adobe.com/ideas/process/information-architecture/introductory-guide-to-information-architecture/
 
 
 
