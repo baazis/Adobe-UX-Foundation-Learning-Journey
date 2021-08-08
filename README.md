@@ -99,6 +99,10 @@
 ### A- An Introductory Guide to Information Architecture (The Beginner’s Guide to Information Architecture in UX )
 #### Link- https://xd.adobe.com/ideas/process/information-architecture/introductory-guide-to-information-architecture/
 
+### B- Techniques & Best Practice for Developing an Information Architecture ( Information Architecture: The Intersection of Users, Content and Context )
+#### Link- https://xd.adobe.com/ideas/process/information-architecture/information-architecture-users-content-context/
+
+
 
 
     
