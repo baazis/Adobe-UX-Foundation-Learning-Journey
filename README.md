@@ -105,6 +105,40 @@
 ### C- Developing an Information Architecture for a Software Product or Solution ( Information Architecture Templates for Web Design )
 #### Link- https://xd.adobe.com/ideas/process/information-architecture/information-architecture-templates-for-web-design/
 
+### D- Examples of Information Architecture ( 5 Examples of Effective Information Architecture )
+#### Link- https://xd.adobe.com/ideas/process/information-architecture/information-architecture-examples/
+
+### E
+    What Is a Sitemap, and what Is Included?
+
+    > It’s possible to define two types of sitemaps—a visual sitemap that you create before building a website and an XML file that contains a list of the pages on your website.
+    > Visual sitemaps are a hierarchical diagram that shows the Information Architecture of a website. It gives you a visual representation of the site’s organization and how different sections are linked together.
+    > Sections can contain other sections or nodes (atomic unit of content). In this section, we'll explore what is involved in creating a sitemap, and explore some examples.
+
+### F- Developing a Sitemap for a Website ( Sitemaps & Information Architecture (IA) )
+#### Link- https://xd.adobe.com/ideas/process/information-architecture/sitemap-and-information-architecture/
+
+### G- Examples of a Sitemap ( 5 Visual Sitemap Examples for Website Designs )
+#### Link- https://xd.adobe.com/ideas/process/information-architecture/visual-sitemap-examples-website-designs/
+
+### H- What Is Navigation and Hierarchy? ( Information Architecture and Navigation )
+#### Link- https://xd.adobe.com/ideas/process/information-architecture/information-architecture-navigation/
+
+### I- Navigation and Hierarchy: Taxonomy and Metadata ( Organizing Information with Taxonomies and Metadata )
+#### Link- https://xd.adobe.com/ideas/process/information-architecture/organizing-information-taxonomies-metadata/
+
+### J- Examples of Navigation Architecture and Hierarchy of Information ( Website & App Navigation Design Best Practices )
+#### Link- https://xd.adobe.com/ideas/process/information-architecture/website-navigation-design-best-practices/
+
+
+## Module 5 :  Mock Up & Prototypes
+
+### A- Different Types of Design Mock-Ups ( The Fundamentals of Wireframing and Prototyping )
+#### Link- https://xd.adobe.com/ideas/process/prototyping/fundamentals-wireframing-prototyping/
+
+### B- User Personas, Scenarios and Stories ( Understanding User Journey vs. User Flow )
+#### Link- https://xd.adobe.com/ideas/process/user-research/user-journey-vs-user-flow/
+
 
 
 
