@@ -139,6 +139,24 @@
 ### B- User Personas, Scenarios and Stories ( Understanding User Journey vs. User Flow )
 #### Link- https://xd.adobe.com/ideas/process/user-research/user-journey-vs-user-flow/
 
+### C- Design Ideation and Sketching ( Product Design Guide Part 2: Research, Analysis, Ideation )
+#### Link- https://xd.adobe.com/ideas/guides/comprehensive-guide-product-design-research-user-analysis-ideation-part-2/
+
+### D- Storyboarding User Experiences ( The What, Why, & When of Storyboarding in UX Design )
+#### Link- https://xd.adobe.com/ideas/process/user-research/storyboard-ux-design/
+
+### E- Design Wireframes ( Wireframing: A Blueprint to Your Site )
+#### Link- https://xd.adobe.com/ideas/process/wireframing/wireframing-a-blueprint-to-your-site/
+
+### F- Design Prototyping and Types of Prototypes ( Low Fidelity vs. High Fidelity Prototyping )
+#### Link- https://xd.adobe.com/ideas/process/prototyping/low-fi-and-hi-fi-prototyping/
+
+
+## Completed !!!
+
+### Course Link- https://futureskillsprime.edcast.com/journey/adobe-ux-foundation-learning-journey-this-free-of-cost
+
+### SSC NASSCOM ASSESSMENT- https://futureskillsprime.edcast.com/pathways/adobe-ux-foundation-ssc-nasscom-assessment-to
 
 
 
