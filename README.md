@@ -158,6 +158,19 @@
 
 ### SSC NASSCOM ASSESSMENT- https://futureskillsprime.edcast.com/pathways/adobe-ux-foundation-ssc-nasscom-assessment-to
 
+## Certificate !!!
+
+### Completion- https://fsprimecertificate.s3-ap-southeast-1.amazonaws.com/Saurabh%20Singh-saurabh.singh2019@vitstudent.ac.in-9211764.pdf
+
+![image](https://user-images.githubusercontent.com/58622363/129396888-980a13d4-608a-41dd-9b14-132e576fa216.png)
+
+
+![image](https://user-images.githubusercontent.com/58622363/129396750-764f3795-a231-42ec-af04-43d4d0f38087.png)
+
+
+![image](https://user-images.githubusercontent.com/58622363/129396637-b47f789b-07c5-45d3-9c26-52b157a3eced.png)
+
+
 
 
     
